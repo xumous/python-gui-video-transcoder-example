@@ -1,8 +1,8 @@
 # Python GUI 视频转码工具实例（支持 AVS3）
 
-[!\[Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[!\[PyQt6](https://img.shields.io/badge/PyQt-6-green.svg)](https://pypi.org/project/PyQt6/)
-[!\[ffmpeg](https://img.shields.io/badge/ffmpeg-8.0.1-red.svg)](https://ffmpeg.org/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyQt6](https://img.shields.io/badge/PyQt-6-green.svg)](https://pypi.org/project/PyQt6/)
+[![ffmpeg](https://img.shields.io/badge/ffmpeg-8.0.1-red.svg)](https://ffmpeg.org/)
 
 一个基于 **PyQt6** 和 **ffmpeg-python** 的图形化视频转码工具，专为高效转码 **8K 春晚 AVS3 视频** 而设计。支持 GPU
 加速（NVIDIA NVENC）、批量任务管理、详细音视频参数调整，并提供友好的用户界面。
@@ -181,4 +181,5 @@ ffmpeg 二进制文件遵循其自身的 [LGPL/GPL 许可证](https://ffmpeg.org
 ---
 
 > 注意：本工具仅为个人无聊项目，可能存在未知 bug。如有问题欢迎提交 Issue，但懒癌发作时可能不会及时修复。
+
 
